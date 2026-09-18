@@ -36,7 +36,7 @@ Discover MCP servers that connect AI assistants such as **ChatGPT, Claude, Claud
 
 Tools that help AI organize information visually.
 
-- **[MindMap AI](https://mindmapai.app/mcp)** — Create visual mind maps from documents, research, conversations, meetings, notes, and code.
+- **[MindMap AI](https://github.com/MindMap-AI/mcp)** — Create visual mind maps from documents, research, conversations, meetings, notes, and code.
 - **[ECharts MCP](https://github.com/hustcc/mcp-echarts)** — Generate charts and visualizations dynamically with AI.
 - **[Mermaid MCP](https://github.com/hustcc/mcp-mermaid)** — Generate Mermaid diagrams and charts through MCP.
 - **[Miro MCP](https://github.com/k-jarzyna/mcp-miro)** — Connect AI assistants with Miro boards and visual collaboration workflows.
