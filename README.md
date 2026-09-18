@@ -342,6 +342,10 @@ Together, we can build a useful directory of productivity-focused MCP servers.
 
 ---
 
+## Research & Data
+
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
+
 ## License
 
 This repository is licensed under the **MIT License**.
