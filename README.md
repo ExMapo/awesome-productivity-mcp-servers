@@ -197,6 +197,7 @@ Tools that help AI organize information visually.
 
 # 🧠 Memory & Personal Knowledge
 
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Retrieve local encrypted knowledge through scoped, expiring grants using a developer-alpha stdio MCP server.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** — Persistent memory shared across AI applications.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** — Knowledge-graph-based persistent memory.
 - **[Memory-Plus](https://github.com/Yuchen20/Memory-Plus)** — Local persistent RAG memory for AI assistants.
