@@ -209,6 +209,7 @@ Tools that help AI organize information visually.
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
 - **[Webflow MCP](https://github.com/webflow/mcp-server)** — Work with Webflow sites and CMS data.
 
