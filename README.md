@@ -201,6 +201,7 @@ Tools that help AI organize information visually.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** — Knowledge-graph-based persistent memory.
 - **[Memory-Plus](https://github.com/Yuchen20/Memory-Plus)** — Local persistent RAG memory for AI assistants.
 - **[Qdrant MCP](https://github.com/qdrant/mcp-server-qdrant/)** — Build semantic memory on top of Qdrant.
+- **[Screenpipe MCP](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)** — Search locally captured screen text and audio history for recall, meeting notes, and work summaries.
 
 ---
 
