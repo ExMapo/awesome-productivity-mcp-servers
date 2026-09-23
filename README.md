@@ -125,6 +125,7 @@ Tools that help AI organize information visually.
 - **[Fast Filesystem MCP](https://github.com/efforthye/fast-filesystem-mcp)** — Advanced file reading, writing, directory operations, and search.
 - **[Files MCP](https://github.com/flesler/mcp-files)** — Search and edit files efficiently.
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** — Secure local filesystem operations.
+- **[Invompt](https://github.com/Invompt/invompt-plugin)** — Create and review invoices from an AI assistant through a hosted MCP server.
 - **[Paperless MCP](https://github.com/baruchiro/paperless-mcp)** — Manage documents, tags, and metadata.
 - **[Pandoc MCP](https://github.com/vivekVells/mcp-pandoc)** — Convert content between document formats.
 - **[Unstructured MCP](https://github.com/Unstructured-IO/UNS-MCP)** — Process unstructured documents and content.
