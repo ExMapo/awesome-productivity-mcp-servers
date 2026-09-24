@@ -170,6 +170,7 @@ Tools that help AI organize information visually.
 
 # 💻 Developer Productivity
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** — The self-improving QA agent lets coding agents author, run, and triage web and mobile tests through MCP.
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
 - **[DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** — Provide AI agents with codebase context.
 - **[GitHub MCP](https://github.com/github/github-mcp-server)** — Official GitHub MCP server.
