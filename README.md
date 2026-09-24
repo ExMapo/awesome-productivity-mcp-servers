@@ -158,6 +158,7 @@ Tools that help AI organize information visually.
 
 # ⚡ Automation & Integrations
 
+- **[API.market MCP](https://api.market/api/mcp/gateway)** — Discover and call APIs, check usage, and manage subscriptions through a proprietary hosted gateway with OAuth; free tiers and paid plans vary by API.
 - **[Integration App MCP](https://github.com/integration-app/mcp-server)** — Interact with SaaS applications through unified integrations.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** — Connect AI assistants to thousands of business tools.
 - **[Make MCP](https://github.com/integromat/make-mcp-server)** — Turn Make scenarios into callable AI tools.
