@@ -348,6 +348,7 @@ Together, we can build a useful directory of productivity-focused MCP servers.
 ## Research & Data
 
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
+- **[Movahedi Privacy API](https://movahedi.ca/developers)** - Read-only Canadian privacy law data over anonymous Streamable HTTP: enforcement actions, 263-term glossary, Quebec Law 25 checklist. Remote: `https://movahedi.ca/mcp` · Registry: `ca.movahedi/privacy`
 
 ## License
 
