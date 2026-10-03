@@ -171,6 +171,7 @@ Tools that help AI organize information visually.
 # 💻 Developer Productivity
 
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
+- **[ContextStream](https://contextstream.io)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. Hosted MCP at `io.contextstream/mcp`. [Benchmarks](https://contextstream.io/benchmarks)
 - **[DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** — Provide AI agents with codebase context.
 - **[GitHub MCP](https://github.com/github/github-mcp-server)** — Official GitHub MCP server.
 - **[GitKraken MCP](https://github.com/gitkraken/gk-cli)** — Work with Git repositories and connected development services.
