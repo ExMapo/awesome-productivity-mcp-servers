@@ -178,6 +178,7 @@ Tools that help AI organize information visually.
 - **[Language Server MCP](https://github.com/isaacphi/mcp-language-server)** — Definitions, references, rename operations, and diagnostics.
 - **[Octocode MCP](https://github.com/bgauryy/octocode-mcp)** — Research and navigate GitHub repositories and code.
 - **[Repo Map MCP](https://github.com.mcas.ms/pdavis68/RepoMapper)** — Generate contextual maps of repository files.
+- **[Shipvela](https://shipvela.com/integrations/codex)** — Create website projects, deploy supported GitHub repositories and inspect deployment status, build logs and usage through a remote OAuth MCP server.
 - **[Sourcerer MCP](https://github.com/st3v3nmw/sourcerer-mcp)** — Semantic code search and navigation.
 - **[XRAY](https://github.com/srijanshukla18/xray)** — Map code structure, find symbols, and analyze change impact.
 
