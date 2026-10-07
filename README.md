@@ -162,6 +162,7 @@ Tools that help AI organize information visually.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** — Connect AI assistants to thousands of business tools.
 - **[Make MCP](https://github.com/integromat/make-mcp-server)** — Turn Make scenarios into callable AI tools.
 - **[Rube](https://rube.composio.dev/)** — Connect AI assistants with hundreds of applications.
+- **[TvojeLajky MCP](https://tvojelajky.cz/developers)** — Retrieve Czech Instagram/TikTok service catalogs and CZK quotes, create unpaid orders, and make paid prepaid-credit purchases with customer-authorized OAuth scopes and a finite budget.
 - **[VeyraX MCP](https://github.com/VeyraX/veyrax-mcp)** — Connect AI assistants with multiple APIs and integrations.
 - **[WayStation](https://waystation.ai/connect/mcp-server)** — Universal MCP connectivity for productivity tools.
 - **[Zapier MCP](https://zapier.com/mcp)** — Connect AI agents with thousands of apps.
