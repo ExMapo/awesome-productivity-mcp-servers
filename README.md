@@ -192,6 +192,7 @@ Tools that help AI organize information visually.
 - **[Snowflake MCP](https://github.com/isaacwasserman/mcp-snowflake-server)** — Query and interact with Snowflake.
 - **[SQLite MCP](https://github.com/panasenco/mcp-sqlite)** — Work with SQLite files.
 - **[Vega-Lite MCP](https://github.com/isaacwasserman/mcp-vegalite-server)** — Turn data into visualizations.
+- **[Zovo Spreadsheet MCP](https://github.com/theluckystrike/mcp-servers)** — Read, write and calculate CSV/TSV spreadsheets with VAT maths and PDF export. Hosted at https://mcp.zovo.one/mcp/spreadsheet.
 
 ---
 
