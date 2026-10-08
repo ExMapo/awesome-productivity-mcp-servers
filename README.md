@@ -77,6 +77,7 @@ Tools that help AI organize information visually.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** — Give AI coding assistants access to Jira ticket context.
 - **[Jira MCP](https://github.com/ahmetbarut/jira-mcp)** — Query Jira boards, issues, and user data.
 - **[Linear MCP](https://github.com/tacticlaunch/mcp-linear)** — Connect AI assistants with Linear.
+- **[Orbit by Noveum](https://orbit.noveum.ai/mcp)** - Manage issues, projects, sprints, docs and files through a hosted MCP server with workspace-scoped OAuth.
 - **[Plane MCP](https://github.com/makeplane/plane-mcp-server)** — Manage Plane projects, work items, and cycles through AI.
 - **[Taskade MCP](https://github.com/taskade/mcp)** — Work with tasks, projects, workflows, and AI agents.
 - **[Trello MCP](https://github.com/m0xai/trello-mcp-server)** — Manage Trello boards, lists, and cards.
