@@ -65,6 +65,7 @@ Tools that help AI organize information visually.
 - **[Taskade MCP](https://github.com/taskade/mcp)** — Access tasks, projects, workflows, and AI agents.
 - **[Tasks MCP](https://github.com/flesler/mcp-tasks)** — Lightweight task management across Markdown, JSON, and YAML.
 - **[Todoist MCP](https://github.com/stanislavlysenko0912/todoist-mcp-server)** — Manage Todoist tasks through MCP.
+- **[Yodu MCP](https://docs.yodu.ai/developers/platform-mcp-quickstart)** — Manage AI-employee tasks, company memory, and schedules in a paid Yodu workspace.
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** — Break down tasks and schedule them around calendar availability.
 
 ---
