@@ -178,6 +178,7 @@ Tools that help AI organize information visually.
 
 # 💻 Developer Productivity
 
+- **[Communicate](https://developer.communicate.so/docs/mcp)** — List workspace AI agents through a read-only hosted MCP server authenticated with OAuth client credentials.
 - **[Agent QA](https://github.com/vostride/agent-qa)** — The self-improving QA agent lets coding agents author, run, and triage web and mobile tests through MCP.
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
 - **[ContextStream](https://contextstream.io/benchmarks)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. 
