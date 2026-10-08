@@ -65,6 +65,7 @@ Tools that help AI organize information visually.
 - **[Taskade MCP](https://github.com/taskade/mcp)** — Access tasks, projects, workflows, and AI agents.
 - **[Tasks MCP](https://github.com/flesler/mcp-tasks)** — Lightweight task management across Markdown, JSON, and YAML.
 - **[Todoist MCP](https://github.com/stanislavlysenko0912/todoist-mcp-server)** — Manage Todoist tasks through MCP.
+- **[Yodu MCP](https://docs.yodu.ai/developers/platform-mcp-quickstart)** — Manage AI-employee tasks, company memory, and schedules in a paid Yodu workspace.
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** — Break down tasks and schedule them around calendar availability.
 
 ---
@@ -77,6 +78,7 @@ Tools that help AI organize information visually.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** — Give AI coding assistants access to Jira ticket context.
 - **[Jira MCP](https://github.com/ahmetbarut/jira-mcp)** — Query Jira boards, issues, and user data.
 - **[Linear MCP](https://github.com/tacticlaunch/mcp-linear)** — Connect AI assistants with Linear.
+- **[Orbit by Noveum](https://orbit.noveum.ai/mcp)** - Manage issues, projects, sprints, docs and files through a hosted MCP server with workspace-scoped OAuth.
 - **[Plane MCP](https://github.com/makeplane/plane-mcp-server)** — Manage Plane projects, work items, and cycles through AI.
 - **[Taskade MCP](https://github.com/taskade/mcp)** — Work with tasks, projects, workflows, and AI agents.
 - **[Trello MCP](https://github.com/m0xai/trello-mcp-server)** — Manage Trello boards, lists, and cards.
@@ -125,8 +127,10 @@ Tools that help AI organize information visually.
 - **[Fast Filesystem MCP](https://github.com/efforthye/fast-filesystem-mcp)** — Advanced file reading, writing, directory operations, and search.
 - **[Files MCP](https://github.com/flesler/mcp-files)** — Search and edit files efficiently.
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** — Secure local filesystem operations.
+- **[Invompt](https://github.com/Invompt/invompt-mcp)** — Create and review invoices from an AI assistant through a hosted MCP server.
 - **[Paperless MCP](https://github.com/baruchiro/paperless-mcp)** — Manage documents, tags, and metadata.
 - **[Pandoc MCP](https://github.com/vivekVells/mcp-pandoc)** — Convert content between document formats.
+- **[quickS3](https://quicks3.com/s3-mcp-server/)** — Browse, upload, download, and share files in S3, R2, B2, Wasabi, and other S3-compatible buckets, with role-based access delegated to the agent.
 - **[Unstructured MCP](https://github.com/Unstructured-IO/UNS-MCP)** — Process unstructured documents and content.
 - **[Vectorize MCP](https://github.com/vectorize-io/vectorize-mcp-server/)** — Extract, process, chunk, and retrieve information from documents.
 
@@ -150,6 +154,7 @@ Tools that help AI organize information visually.
 - **[Carbon Voice MCP](https://github.com/PhononX/cv-mcp-server)** — Voice-first team communication.
 - **[Google Chat MCP](https://github.com/siva010928/multi-chat-mcp-server)** — Connect AI assistants with Google Chat.
 - **[LINE Official Account MCP](https://github.com/line/line-bot-mcp-server)** — Connect AI agents to LINE Messaging.
+- **[RapportScore](https://rapportscore.ai)** — Connect authorized AI assistants to Conversational AI Coaching from recorded conversations and permissioned Team Dynamics reports through a hosted OAuth MCP; Team Dynamics is a limited U.S. pilot.
 - **[Slack MCP](https://github.com/korotovsky/slack-mcp-server)** — Work with Slack workspaces through MCP.
 - **[Wassenger MCP](https://github.com/wassengerhq/mcp-wassenger)** — Work with WhatsApp messaging.
 - **[Webex MCP](https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server)** — Access Cisco Webex messaging.
@@ -158,10 +163,13 @@ Tools that help AI organize information visually.
 
 # ⚡ Automation & Integrations
 
+- **[API.market MCP](https://api.market/api/mcp/gateway)** — Discover and call APIs, check usage, and manage subscriptions through a proprietary hosted gateway with OAuth; free tiers and paid plans vary by API.
 - **[Integration App MCP](https://github.com/integration-app/mcp-server)** — Interact with SaaS applications through unified integrations.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** — Connect AI assistants to thousands of business tools.
 - **[Make MCP](https://github.com/integromat/make-mcp-server)** — Turn Make scenarios into callable AI tools.
 - **[Rube](https://rube.composio.dev/)** — Connect AI assistants with hundreds of applications.
+- **[Tale](https://github.com/tale-project/tale)** — Build and run Tale automations and retrieve organization knowledge through MCP.
+- **[TvojeLajky MCP](https://tvojelajky.cz/developers)** — Retrieve Czech Instagram/TikTok service catalogs and CZK quotes, create unpaid orders, and make paid prepaid-credit purchases with customer-authorized OAuth scopes and a finite budget.
 - **[VeyraX MCP](https://github.com/VeyraX/veyrax-mcp)** — Connect AI assistants with multiple APIs and integrations.
 - **[WayStation](https://waystation.ai/connect/mcp-server)** — Universal MCP connectivity for productivity tools.
 - **[Zapier MCP](https://zapier.com/mcp)** — Connect AI agents with thousands of apps.
@@ -171,14 +179,18 @@ Tools that help AI organize information visually.
 # 💻 Developer Productivity
 
 - **[Communicate](https://developer.communicate.so/docs/mcp)** — List workspace AI agents through a read-only hosted MCP server authenticated with OAuth client credentials.
+- **[Agent QA](https://github.com/vostride/agent-qa)** — The self-improving QA agent lets coding agents author, run, and triage web and mobile tests through MCP.
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
+- **[ContextStream](https://contextstream.io/benchmarks)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. 
 - **[DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** — Provide AI agents with codebase context.
 - **[GitHub MCP](https://github.com/github/github-mcp-server)** — Official GitHub MCP server.
 - **[GitKraken MCP](https://github.com/gitkraken/gk-cli)** — Work with Git repositories and connected development services.
 - **[JetBrains MCP](https://github.com/JetBrains/mcp-jetbrains)** — Connect AI assistants with JetBrains IDEs.
 - **[Language Server MCP](https://github.com/isaacphi/mcp-language-server)** — Definitions, references, rename operations, and diagnostics.
 - **[Octocode MCP](https://github.com/bgauryy/octocode-mcp)** — Research and navigate GitHub repositories and code.
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** — Read an agent's own recorded coding sessions: walk the timeline, see what caused what, and replay a past run offline with no model call.
 - **[Repo Map MCP](https://github.com.mcas.ms/pdavis68/RepoMapper)** — Generate contextual maps of repository files.
+- **[Shipvela](https://shipvela.com/integrations/codex)** — Create website projects, deploy supported GitHub repositories and inspect deployment status, build logs and usage through a remote OAuth MCP server.
 - **[Sourcerer MCP](https://github.com/st3v3nmw/sourcerer-mcp)** — Semantic code search and navigation.
 - **[XRAY](https://github.com/srijanshukla18/xray)** — Map code structure, find symbols, and analyze change impact.
 
@@ -198,6 +210,7 @@ Tools that help AI organize information visually.
 
 # 🧠 Memory & Personal Knowledge
 
+- **[Continuity](https://github.com/LAHutchins91/continuity-mcp)** — Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. 
 - **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Retrieve local encrypted knowledge through scoped, expiring grants using a developer-alpha stdio MCP server.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** — Persistent memory shared across AI applications.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** — Knowledge-graph-based persistent memory.
@@ -214,6 +227,7 @@ Tools that help AI organize information visually.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
+- **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP
 - **[Webflow MCP](https://github.com/webflow/mcp-server)** — Work with Webflow sites and CMS data.
 
 ---
@@ -349,6 +363,7 @@ Together, we can build a useful directory of productivity-focused MCP servers.
 ## Research & Data
 
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
+- **[Movahedi Privacy API](https://movahedi.ca/developers)** - Read-only Canadian privacy law data over anonymous Streamable HTTP: enforcement actions, 263-term glossary, Quebec Law 25 checklist. Remote: `https://movahedi.ca/mcp` · Registry: `ca.movahedi/privacy`
 
 ## License
 
