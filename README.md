@@ -179,7 +179,7 @@ Tools that help AI organize information visually.
 
 - **[Agent QA](https://github.com/vostride/agent-qa)** — The self-improving QA agent lets coding agents author, run, and triage web and mobile tests through MCP.
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
-- **[ContextStream](https://contextstream.io)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. Hosted MCP at `io.contextstream/mcp`. [Benchmarks](https://contextstream.io/benchmarks)
+- **[ContextStream](https://contextstream.io/benchmarks)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. 
 - **[DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** — Provide AI agents with codebase context.
 - **[GitHub MCP](https://github.com/github/github-mcp-server)** — Official GitHub MCP server.
 - **[GitKraken MCP](https://github.com/gitkraken/gk-cli)** — Work with Git repositories and connected development services.
@@ -208,7 +208,7 @@ Tools that help AI organize information visually.
 
 # 🧠 Memory & Personal Knowledge
 
-- **[Continuity](https://github.com/LAHutchins91/continuity-mcp)** — Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. Hosted Streamable HTTP at https://continuitywriter.com/mcp with OAuth 2.1.
+- **[Continuity](https://github.com/LAHutchins91/continuity-mcp)** — Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. 
 - **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Retrieve local encrypted knowledge through scoped, expiring grants using a developer-alpha stdio MCP server.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** — Persistent memory shared across AI applications.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** — Knowledge-graph-based persistent memory.
@@ -225,7 +225,7 @@ Tools that help AI organize information visually.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
-- **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP; [setup and documentation](https://videogen.io/videogen-mcp).
+- **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP
 - **[Webflow MCP](https://github.com/webflow/mcp-server)** — Work with Webflow sites and CMS data.
 
 ---
