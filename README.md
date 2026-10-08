@@ -127,6 +127,7 @@ Tools that help AI organize information visually.
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** — Secure local filesystem operations.
 - **[Paperless MCP](https://github.com/baruchiro/paperless-mcp)** — Manage documents, tags, and metadata.
 - **[Pandoc MCP](https://github.com/vivekVells/mcp-pandoc)** — Convert content between document formats.
+- **[quickS3](https://quicks3.com/s3-mcp-server/)** — Browse, upload, download, and share files in S3, R2, B2, Wasabi, and other S3-compatible buckets, with role-based access delegated to the agent.
 - **[Unstructured MCP](https://github.com/Unstructured-IO/UNS-MCP)** — Process unstructured documents and content.
 - **[Vectorize MCP](https://github.com/vectorize-io/vectorize-mcp-server/)** — Extract, process, chunk, and retrieve information from documents.
 
