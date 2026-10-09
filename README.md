@@ -49,6 +49,7 @@ Tools that help AI organize information visually.
 - **[Apple Notes MCP](https://github.com/RafalWilinski/mcp-apple-notes)** — Interact with Apple Notes through AI.
 - **[Google Keep MCP](https://github.com/feuerdev/keep-mcp)** — Read, create, update, and delete Google Keep notes.
 - **[HackMD MCP](https://github.com/yuna0x0/hackmd-mcp)** — Access and manage HackMD notes from AI assistants.
+- **[Liminal](https://github.com/jaybro2042-alt/liminality-mcp)** — Turn objectives into structured work from any MCP client: scope, constraints, gaps, research and next steps, with continuity carried across sessions.
 - **[Notion MCP](https://github.com/makenotion/notion-mcp-server)** — Official Notion MCP server for connecting AI assistants with Notion.
 - **[Obsidian MCP](https://github.com/MarkusPfundstein/mcp-obsidian)** — Interact with Obsidian through its REST API.
 - **[Paperless MCP](https://github.com/baruchiro/paperless-mcp)** — Manage documents and metadata stored in Paperless-NGX.
