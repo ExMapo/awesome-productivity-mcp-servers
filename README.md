@@ -72,6 +72,7 @@ Tools that help AI organize information visually.
 
 # 📊 Project Management
 
+- **[Atlassian Browser MCP](https://github.com/GeiserX/atlassian-browser-mcp)** — Connect AI assistants to Jira and Confluence Server/Data Center behind corporate SSO, using a browser login instead of API tokens.
 - **[Basecamp MCP](https://github.com/georgeantonopoulos/Basecamp-MCP-Server)** — Manage Basecamp projects, to-dos, documents, and collaboration.
 - **[Buildable MCP](https://github.com/chunkydotdev/bldbl-mcp)** — Manage tasks, project context, and AI-assisted development workflows.
 - **[Dart MCP](https://github.com/its-dart/dart-mcp-server)** — Interact with project, task, and document data.
