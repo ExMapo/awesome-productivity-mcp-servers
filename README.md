@@ -165,7 +165,7 @@ Tools that help AI organize information visually.
 
 # ⚡ Automation & Integrations
 
-- **[Aident Loadout](https://github.com/Aident-AI/aident-skill)** — Connect Codex, Claude Code, Cursor and other MCP clients to 1,000+ apps through one remote MCP server.
+- **[Aident Loadout](https://aident.ai)** ([GitHub](https://github.com/Aident-AI/aident-skill)) — Connect Codex, Claude Code, Cursor and other MCP clients to 1,000+ apps and 400+ Skills through one remote MCP server (`https://loadout.aident.ai/mcp`).
 - **[API.market MCP](https://api.market/api/mcp/gateway)** — Discover and call APIs, check usage, and manage subscriptions through a proprietary hosted gateway with OAuth; free tiers and paid plans vary by API.
 - **[Integration App MCP](https://github.com/integration-app/mcp-server)** — Interact with SaaS applications through unified integrations.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** — Connect AI assistants to thousands of business tools.
