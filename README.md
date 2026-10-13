@@ -140,6 +140,7 @@ Tools that help AI organize information visually.
 
 # 📧 Email Productivity
 
+- **[day3](https://docs.day3.app/mcp)** - Draft, edit, preview and test-send newsletter campaigns and enroll contacts in automations on the day3 email platform through a hosted MCP server with an API key. Remote: `https://go.day3.app/api/mcp` · Registry: `io.github.Mopra/day3`
 - **[Email MCP](https://github.com/Shy2593666979/mcp-server-email)** — Send emails through several major email providers.
 - **[Email Send MCP](https://github.com/YUHAI0/email-send-mcp)** — Lightweight MCP for sending emails.
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** — Access email through IMAP.
