@@ -202,6 +202,7 @@ Tools that help AI organize information visually.
 # 📊 Data & Spreadsheets
 
 - **[BigQuery MCP](https://github.com/LucasHild/mcp-server-bigquery)** — Query BigQuery data through MCP.
+- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** — Live data layer for data-center site selection: daily DCPI grid-power scores across 300+ markets, plus power, grid, fiber and deal tools agents can query and cite. 94 tools; Streamable HTTP at https://dchub.cloud/mcp; free tier needs no key.
 - **[Excel MCP](https://github.com/haris-musa/excel-mcp-server)** — Read, write, format, chart, and manage Excel workbooks.
 - **[Invokely](https://invokely.ai/docs)**: Query source-cited official statistics by indicator and place, with time series, comparisons, and rankings for the U.S., EU, Spain, other countries and the world.
 - **[MotherDuck MCP](https://github.com/motherduckdb/mcp-server-motherduck)** — Query and analyze MotherDuck and DuckDB data.
