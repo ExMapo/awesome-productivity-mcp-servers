@@ -117,6 +117,7 @@ Tools that help AI organize information visually.
 - **[Google News MCP](https://github.com/ChanMeng666/server-google-news)** — Search and categorize Google News.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
+- **[looot MCP](https://github.com/loootai/looot-mcp)** — Hosted remote MCP server for business-data lookups: people and company enrichment, work emails, web search and page reading, billed per call from a prepaid balance.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
