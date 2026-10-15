@@ -241,6 +241,7 @@ Tools that help AI organize information visually.
 
 - **[Browser MCP](https://github.com/browsermcp/mcp)** — Automate a local browser.
 - **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)** — Cloud browser automation.
+- **[CurlShot MCP](https://curlshot.com/docs/guides/ai-agents)** — Screenshot any web page as PNG, JPEG, WebP or PDF from a hosted MCP server (full page, phone or tablet view, dark mode, ads and cookie banners hidden); needs a CurlShot API key, free plan of 100 screenshots a month.
 - **[Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp)** — Browser automation for AI agents.
 - **[Notte MCP](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** — AI-powered browser sessions and web automation.
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** — Browser automation using Playwright.
