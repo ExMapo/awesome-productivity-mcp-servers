@@ -118,6 +118,7 @@ Tools that help AI organize information visually.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
+- **[Robot Speed MCP](https://github.com/robot-speed/mcp)** — SEO research for AI agents: site audits, Core Web Vitals, keywords, backlinks, and AI visibility (remote: `https://www.robot-speed.com/api/mcp`).
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
 
@@ -229,6 +230,7 @@ Tools that help AI organize information visually.
 
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
+- **[Kleap MCP](https://github.com/kleaphq/cli)** — Create, edit, and publish real websites and web apps from AI agents (remote: `https://kleap.co/api/mcp`).
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
