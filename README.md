@@ -227,6 +227,7 @@ Tools that help AI organize information visually.
 
 # ✍️ Content & Publishing
 
+- **[AltoRank](https://github.com/AltoRank/altorank)** — Run SEO readiness audits, read Search Console, research keywords, and write SEO drafts into a person's review queue (hosted at `https://app.altorank.co/api/mcp`, OAuth).
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
