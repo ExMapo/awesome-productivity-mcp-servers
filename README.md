@@ -195,6 +195,7 @@ Tools that help AI organize information visually.
 - **[Repo Map MCP](https://github.com.mcas.ms/pdavis68/RepoMapper)** — Generate contextual maps of repository files.
 - **[Shipvela](https://shipvela.com/integrations/codex)** — Create website projects, deploy supported GitHub repositories and inspect deployment status, build logs and usage through a remote OAuth MCP server.
 - **[Sourcerer MCP](https://github.com/st3v3nmw/sourcerer-mcp)** — Semantic code search and navigation.
+- **[Sqwakie](https://github.com/alexcarney460-hue/walkie)** — Live team dashboard for Claude Code and Codex agents, with agent-to-agent questions over MCP and peer-to-peer links between machines.
 - **[XRAY](https://github.com/srijanshukla18/xray)** — Map code structure, find symbols, and analyze change impact.
 
 ---
