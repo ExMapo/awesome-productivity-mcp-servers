@@ -135,6 +135,7 @@ Tools that help AI organize information visually.
 - **[quickS3](https://quicks3.com/s3-mcp-server/)** — Browse, upload, download, and share files in S3, R2, B2, Wasabi, and other S3-compatible buckets, with role-based access delegated to the agent.
 - **[Unstructured MCP](https://github.com/Unstructured-IO/UNS-MCP)** — Process unstructured documents and content.
 - **[Vectorize MCP](https://github.com/vectorize-io/vectorize-mcp-server/)** — Extract, process, chunk, and retrieve information from documents.
+- **[Vespper](https://www.vespper.com)** — Read .docx files as HTML and apply edits back as native Word tracked changes.
 
 ---
 
