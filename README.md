@@ -170,6 +170,7 @@ Tools that help AI organize information visually.
 - **[Integration App MCP](https://github.com/integration-app/mcp-server)** — Interact with SaaS applications through unified integrations.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** — Connect AI assistants to thousands of business tools.
 - **[Make MCP](https://github.com/integromat/make-mcp-server)** — Turn Make scenarios into callable AI tools.
+- **[NeverApply](https://github.com/kasovy/neverapply-mcp)** — AI job-search agent: search and match jobs, tailor resumes, answer screening questions, and apply with your approval.
 - **[Rube](https://rube.composio.dev/)** — Connect AI assistants with hundreds of applications.
 - **[Tale](https://github.com/tale-project/tale)** — Build and run Tale automations and retrieve organization knowledge through MCP.
 - **[TvojeLajky MCP](https://tvojelajky.cz/developers)** — Retrieve Czech Instagram/TikTok service catalogs and CZK quotes, create unpaid orders, and make paid prepaid-credit purchases with customer-authorized OAuth scopes and a finite budget.
