@@ -47,6 +47,7 @@ Tools that help AI organize information visually.
 # 📝 Notes & Knowledge Management
 
 - **[Apple Notes MCP](https://github.com/RafalWilinski/mcp-apple-notes)** — Interact with Apple Notes through AI.
+- **[Folio Wiki](https://github.com/evergreen-it-dev/folio)** — Search, read, create and update pages, data tables and whiteboards in a self-hosted, Git-backed team wiki through its built-in MCP server.
 - **[Google Keep MCP](https://github.com/feuerdev/keep-mcp)** — Read, create, update, and delete Google Keep notes.
 - **[HackMD MCP](https://github.com/yuna0x0/hackmd-mcp)** — Access and manage HackMD notes from AI assistants.
 - **[Liminal](https://github.com/jaybro2042-alt/liminality-mcp)** — Turn objectives into structured work from any MCP client: scope, constraints, gaps, research and next steps, with continuity carried across sessions.
