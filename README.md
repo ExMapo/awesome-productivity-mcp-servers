@@ -244,6 +244,7 @@ Tools that help AI organize information visually.
 - **[Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp)** — Browser automation for AI agents.
 - **[Notte MCP](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** — AI-powered browser sessions and web automation.
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** — Browser automation using Playwright.
+- **[ReMCP](https://github.com/getremcp/remcp)** — OAuth-controlled browser and desktop automation plus terminal and file tools for explicitly paired computers; actions may change device state.
 - **[Skyvern MCP](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp)** — Let AI agents control browser workflows.
 - **[Website Snapshot MCP](https://github.com/gustavo-meilus/mcp-web-snapshot)** — Capture and analyze structured website snapshots.
 
