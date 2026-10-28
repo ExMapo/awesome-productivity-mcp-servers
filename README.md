@@ -183,6 +183,7 @@ Tools that help AI organize information visually.
 
 - **[Communicate](https://developer.communicate.so/docs/mcp)** — List workspace AI agents through a read-only hosted MCP server authenticated with OAuth client credentials.
 - **[Agent QA](https://github.com/vostride/agent-qa)** — The self-improving QA agent lets coding agents author, run, and triage web and mobile tests through MCP.
+- **[Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp)** — Project scaffolding, code search, dependency and build insight for coding agents.
 - **[Context7](https://github.com/upstash/context7-mcp)** — Retrieve current library and framework documentation.
 - **[ContextStream](https://contextstream.io/benchmarks)** — Shared project context for AI coding agents across Cursor, Claude Code, Codex, and other MCP clients. 
 - **[DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** — Provide AI agents with codebase context.
@@ -190,6 +191,7 @@ Tools that help AI organize information visually.
 - **[GitKraken MCP](https://github.com/gitkraken/gk-cli)** — Work with Git repositories and connected development services.
 - **[JetBrains MCP](https://github.com/JetBrains/mcp-jetbrains)** — Connect AI assistants with JetBrains IDEs.
 - **[Language Server MCP](https://github.com/isaacphi/mcp-language-server)** — Definitions, references, rename operations, and diagnostics.
+- **[MCP Probe Kit](https://github.com/mybolide/mcp-probe-kit)** — Probe every tool, resource and prompt of an MCP server and report health, latency and schema drift.
 - **[Octocode MCP](https://github.com/bgauryy/octocode-mcp)** — Research and navigate GitHub repositories and code.
 - **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** — Read an agent's own recorded coding sessions: walk the timeline, see what caused what, and replay a past run offline with no model call.
 - **[Repo Map MCP](https://github.com.mcas.ms/pdavis68/RepoMapper)** — Generate contextual maps of repository files.
