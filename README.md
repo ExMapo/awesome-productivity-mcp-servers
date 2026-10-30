@@ -113,6 +113,7 @@ Tools that help AI organize information visually.
 - **[DeepResearch MCP](https://github.com/OctagonAI/octagon-deep-research-mcp)** — AI-powered deep research workflows.
 - **[Exa MCP](https://github.com/exa-labs/exa-mcp-server)** — Search engine designed for AI applications.
 - **[Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** — Fetch and convert web content for AI usage.
+- **[FindAIforWork](https://findaiforwork.com/llms.txt)** — Search, compare, and retrieve AI tools by work scenario through a read-only remote MCP server.
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Extract structured information from websites.
 - **[Google News MCP](https://github.com/ChanMeng666/server-google-news)** — Search and categorize Google News.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
