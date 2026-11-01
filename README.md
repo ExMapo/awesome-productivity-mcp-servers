@@ -119,6 +119,7 @@ Tools that help AI organize information visually.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
+- **[SoldFetch](https://github.com/ecom-crawl/soldfetch-mcp)** — Research eBay sold and active listings, categories, and item details through hosted MCP; API key required. Not affiliated with eBay.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
 
 ---
