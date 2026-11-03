@@ -367,6 +367,7 @@ Together, we can build a useful directory of productivity-focused MCP servers.
 
 ## Research & Data
 
+- **[ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp)** — New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Local stdio server: `npx -y github:GeminiGeorge22/ats-jobs-mcp` with your own `APIFY_TOKEN`.
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - **[Movahedi Privacy API](https://movahedi.ca/developers)** - Read-only Canadian privacy law data over anonymous Streamable HTTP: enforcement actions, 263-term glossary, Quebec Law 25 checklist. Remote: `https://movahedi.ca/mcp` · Registry: `ca.movahedi/privacy`
 
