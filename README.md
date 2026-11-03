@@ -114,6 +114,7 @@ Tools that help AI organize information visually.
 - **[Exa MCP](https://github.com/exa-labs/exa-mcp-server)** — Search engine designed for AI applications.
 - **[Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** — Fetch and convert web content for AI usage.
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Extract structured information from websites.
+- **[Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp)** — Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with shown dates.
 - **[Google News MCP](https://github.com/ChanMeng666/server-google-news)** — Search and categorize Google News.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
