@@ -214,6 +214,7 @@ Tools that help AI organize information visually.
 
 # 🧠 Memory & Personal Knowledge
 
+- **[Anansi Haven](https://github.com/kburrus64-max/anansi-haven)** — Hosted Streamable HTTP MCP home base with persistent agent memory, E2E rooms, and free rule-based `trade_postmortem`/`council_grade` (fixed rules, no AI model calls); Official Registry `io.github.kburrus64-max/anansi-haven`; optional Base x402 $0.02 USDC.
 - **[Continuity](https://github.com/LAHutchins91/continuity-mcp)** — Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. 
 - **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Retrieve local encrypted knowledge through scoped, expiring grants using a developer-alpha stdio MCP server.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** — Persistent memory shared across AI applications.
