@@ -118,6 +118,7 @@ Tools that help AI organize information visually.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
+- **[RealtyCrawl](https://github.com/realtycrawl/realtycrawl-mcp)** — Discover real estate capabilities and endpoint schemas, then retrieve source-linked observations with explicit credit budgets; data calls require an API key.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
 
