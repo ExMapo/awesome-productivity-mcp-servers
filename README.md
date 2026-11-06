@@ -116,6 +116,7 @@ Tools that help AI organize information visually.
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Extract structured information from websites.
 - **[Google News MCP](https://github.com/ChanMeng666/server-google-news)** — Search and categorize Google News.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
+- **[JobsPipe MCP](https://github.com/jobspipe/mcp)** — Search live job postings across 30+ ATS feeds and job boards via a hosted MCP (`https://mcp.jobspipe.dev/mcp`).
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
