@@ -120,6 +120,7 @@ Tools that help AI organize information visually.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
+- **[Vaneform MCP](https://github.com/jiangqizheng/vaneform-mcp)** — Free website traffic checker via hosted MCP (`https://vaneform.com/mcp`): estimated visits, trends, and traffic sources for any domain.
 
 ---
 
