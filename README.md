@@ -118,6 +118,7 @@ Tools that help AI organize information visually.
 - **[Jina Reader MCP](https://github.com/wong2/mcp-jina-reader)** — Convert web pages into AI-friendly Markdown.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
+- **[ReadGZH MCP](https://github.com/sweesama/readgzh)** — Read WeChat Official Account (公众号) articles as clean, AI-readable text; tools to read, search and list cached articles (remote server: `https://api.readgzh.site/mcp-server`).
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
 
