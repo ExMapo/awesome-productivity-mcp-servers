@@ -111,6 +111,7 @@ Tools that help AI organize information visually.
 
 - **[AnyCrawl MCP](https://github.com/any4ai/anycrawl-mcp-server)** — Web scraping and crawling for AI clients.
 - **[DeepResearch MCP](https://github.com/OctagonAI/octagon-deep-research-mcp)** — AI-powered deep research workflows.
+- **[EarlyLore MCP](https://earlylore.com/mcp)** — Hosted MCP for product-idea evaluation, competitor research, demand signals, and entry-angle research for founders.
 - **[Exa MCP](https://github.com/exa-labs/exa-mcp-server)** — Search engine designed for AI applications.
 - **[Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** — Fetch and convert web content for AI usage.
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Extract structured information from websites.
