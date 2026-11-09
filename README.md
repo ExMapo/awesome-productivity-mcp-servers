@@ -77,6 +77,7 @@ Tools that help AI organize information visually.
 - **[Basecamp MCP](https://github.com/georgeantonopoulos/Basecamp-MCP-Server)** — Manage Basecamp projects, to-dos, documents, and collaboration.
 - **[Buildable MCP](https://github.com/chunkydotdev/bldbl-mcp)** — Manage tasks, project context, and AI-assisted development workflows.
 - **[Dart MCP](https://github.com/its-dart/dart-mcp-server)** — Interact with project, task, and document data.
+- **[featureloom](https://featureloom.com/en/integrations/mcp/)** – Hosted MCP server for plans and a kanban board: agents take plans, deliver and report, people accept the work. Paid after a 30-day trial.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** — Give AI coding assistants access to Jira ticket context.
 - **[Jira MCP](https://github.com/ahmetbarut/jira-mcp)** — Query Jira boards, issues, and user data.
 - **[Linear MCP](https://github.com/tacticlaunch/mcp-linear)** — Connect AI assistants with Linear.
