@@ -227,6 +227,7 @@ Tools that help AI organize information visually.
 
 # ✍️ Content & Publishing
 
+- **[Cassette Publish](https://cassette.gg/agents/guide.md)**: Publish and manage browser games from a coding agent through hosted Streamable HTTP at `https://cassette.gg/mcp/publish`, with OAuth and human approval.
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
