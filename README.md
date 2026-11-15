@@ -126,6 +126,7 @@ Tools that help AI organize information visually.
 # 📄 Documents & Files
 
 - **[Box MCP](https://github.com/box-community/mcp-server-box)** — Interact with content stored in Box.
+- **[EveryApp](https://everyapp.pro/mcp)** — Find and run EveryApp's 300+ file and AI tools from an AI assistant, such as compressing a PDF, converting a video or making an image, through a hosted MCP server with OAuth sign-in.
 - **[Fast Filesystem MCP](https://github.com/efforthye/fast-filesystem-mcp)** — Advanced file reading, writing, directory operations, and search.
 - **[Files MCP](https://github.com/flesler/mcp-files)** — Search and edit files efficiently.
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** — Secure local filesystem operations.
