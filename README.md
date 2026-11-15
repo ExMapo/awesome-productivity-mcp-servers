@@ -93,6 +93,7 @@ Tools that help AI organize information visually.
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** — Expose calendar operations to AI assistants through CalDAV.
 - **[MintMCP](https://github.com/mintmcp/servers)** — MCP integrations for Google Calendar, Gmail, Outlook Calendar, and Outlook.
 - **[Nextcloud Calendar MCP](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** — Manage calendars, events, and attendees.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** — Search verified live-music venues across the US and BC, plan tour routes, and look up booking contacts from any MCP client.
 - **[Routine MCP](https://github.com/routineco/mcp-server)** — Work with calendar events, tasks, and notes.
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** — AI-assisted scheduling around your existing calendar.
 
