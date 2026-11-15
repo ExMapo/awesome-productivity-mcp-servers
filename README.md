@@ -120,6 +120,7 @@ Tools that help AI organize information visually.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
+- **[SEO Rank Fixer](https://seorankfixer.com)** — Your Google Search Console and Bing data in your AI assistant: SEO fixes ranked by the clicks they can win, site audits and page scans (hosted, OAuth).
 
 ---
 
