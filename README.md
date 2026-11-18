@@ -233,6 +233,7 @@ Tools that help AI organize information visually.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
 - **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP
+- **[Wavegrain MCP](https://github.com/wavegrain/wavegrain-mcp)** - Write, design, edit, schedule and export TikTok slideshows and Instagram carousels from a brand's own photos through a hosted MCP server.
 - **[Webflow MCP](https://github.com/webflow/mcp-server)** — Work with Webflow sites and CMS data.
 
 ---
