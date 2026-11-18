@@ -142,6 +142,7 @@ Tools that help AI organize information visually.
 
 - **[Email MCP](https://github.com/Shy2593666979/mcp-server-email)** — Send emails through several major email providers.
 - **[Email Send MCP](https://github.com/YUHAI0/email-send-mcp)** — Lightweight MCP for sending emails.
+- **[FairValid](https://github.com/moonlitnayeem/fairvalid-ai)** — Verify email addresses and discover verified work emails through the official hosted MCP server; customer authentication and credit limits apply.
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** — Access email through IMAP.
 - **[Inbox Zero MCP](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server)** — AI-assisted email productivity.
 - **[Mailgun MCP](https://github.com/mailgun/mailgun-mcp-server)** — Interact with Mailgun.
