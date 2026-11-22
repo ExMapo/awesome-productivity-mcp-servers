@@ -104,6 +104,7 @@ Tools that help AI organize information visually.
 - **[Carbon Voice MCP](https://github.com/PhononX/cv-mcp-server)** — Work with voice messages, conversations, folders, and voice memos.
 - **[tl;dv MCP](https://gitlab.com/tldv/tldv-mcp-server)** — Connect AI agents with Google Meet, Zoom, and Microsoft Teams.
 - **[YouTube MCP](https://github.com/anaisbetts/mcp-youtube)** — Retrieve YouTube subtitles for analysis and summarization.
+- **[YouTube Transcripts MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/youtube-transcripts)** — Hosted server that returns timestamped transcripts for one or many YouTube videos or Shorts.
 
 ---
 
