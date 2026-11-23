@@ -64,6 +64,7 @@ Tools that help AI organize information visually.
 - **[Reminder MCP](https://github.com/arifszn/reminder-mcp)** — Schedule reminders through Slack or Telegram.
 - **[Routine MCP](https://github.com/routineco/mcp-server)** — Work with tasks, calendars, and notes.
 - **[Taskade MCP](https://github.com/taskade/mcp)** — Access tasks, projects, workflows, and AI agents.
+- **[Taskhold MCP](https://taskhold.com/docs/mcp-tools)** - Task list shared by a person and their coding agents: agents pick up the next task, plan steps, report live progress and ask a question when blocked.
 - **[Tasks MCP](https://github.com/flesler/mcp-tasks)** — Lightweight task management across Markdown, JSON, and YAML.
 - **[Todoist MCP](https://github.com/stanislavlysenko0912/todoist-mcp-server)** — Manage Todoist tasks through MCP.
 - **[Yodu MCP](https://docs.yodu.ai/developers/platform-mcp-quickstart)** — Manage AI-employee tasks, company memory, and schedules in a paid Yodu workspace.
