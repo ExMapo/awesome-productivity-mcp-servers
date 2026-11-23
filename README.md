@@ -232,6 +232,7 @@ Tools that help AI organize information visually.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
+- **[Vertov](https://vertov.app/docs/mcp)** — Search workspace recordings, retrieve timestamped transcripts and briefs, and upload an existing video through a remote OAuth MCP server.
 - **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP
 - **[Webflow MCP](https://github.com/webflow/mcp-server)** — Work with Webflow sites and CMS data.
 
