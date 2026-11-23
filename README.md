@@ -230,6 +230,7 @@ Tools that help AI organize information visually.
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
+- **[Octopost MCP](https://octopost.ink/docs/mcp)** - Post, schedule and thread to X, Bluesky, Mastodon and LinkedIn from an agent, with a queue and human approval.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
 - **[Storyblok MCP](https://github.com/Kiran1689/storyblok-mcp-server)** — Manage Storyblok content and assets.
 - **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** — Create, edit, caption, and export product-marketing videos and media from AI assistants via stdio or hosted HTTP
