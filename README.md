@@ -120,6 +120,7 @@ Tools that help AI organize information visually.
 - **[Kagi Search MCP](https://github.com/kagisearch/kagimcp)** — Search the web using Kagi.
 - **[Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol)** — Real-time web research powered by Perplexity.
 - **[Search1API MCP](https://github.com/fatwang2/search1api-mcp)** — Search, crawl, and retrieve web information.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** — Search and extract information for AI agents.
 
 ---
