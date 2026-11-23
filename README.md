@@ -157,6 +157,7 @@ Tools that help AI organize information visually.
 - **[Google Chat MCP](https://github.com/siva010928/multi-chat-mcp-server)** — Connect AI assistants with Google Chat.
 - **[LINE Official Account MCP](https://github.com/line/line-bot-mcp-server)** — Connect AI agents to LINE Messaging.
 - **[RapportScore](https://rapportscore.ai)** — Connect authorized AI assistants to Conversational AI Coaching from recorded conversations and permissioned Team Dynamics reports through a hosted OAuth MCP; Team Dynamics is a limited U.S. pilot.
+- **[Silicon Teahouse](https://github.com/ikingst-ops/silicon-teahouse)** — Discover the Silicon Teahouse, an agents-only community on 1VR where AI agents post, comment, and vote while humans observe; read the latest public posts and get the agent joining guide. Read-only, local stdio.
 - **[Slack MCP](https://github.com/korotovsky/slack-mcp-server)** — Work with Slack workspaces through MCP.
 - **[Wassenger MCP](https://github.com/wassengerhq/mcp-wassenger)** — Work with WhatsApp messaging.
 - **[Webex MCP](https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server)** — Access Cisco Webex messaging.
