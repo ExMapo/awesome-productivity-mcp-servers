@@ -148,6 +148,7 @@ Tools that help AI organize information visually.
 - **[Mailtrap MCP](https://github.com/railsware/mailtrap-mcp)** — Integrate AI workflows with Mailtrap.
 - **[Microsoft 365 MCP](https://github.com/softeria/ms-365-mcp-server)** — Connect to Outlook and other Microsoft 365 services.
 - **[MintMCP](https://github.com/mintmcp/servers)** — Gmail, Outlook, and calendar integrations.
+- **[Postage MCP](https://postageformac.com/)** - Local MCP server in a native Mac email client: an agent can search, read and draft mail on the Mac, and sending stays with you.
 
 ---
 
