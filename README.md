@@ -228,6 +228,7 @@ Tools that help AI organize information visually.
 # ✍️ Content & Publishing
 
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
+- **[Cueston](https://github.com/andreycretsu/cueston-mcp)** — Build, preview and publish in-app product tours, tooltips, banners, checklists, surveys and announcements on your SaaS app, and read their analytics (official hosted server, OAuth).
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
