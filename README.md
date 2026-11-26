@@ -148,6 +148,7 @@ Tools that help AI organize information visually.
 - **[Mailtrap MCP](https://github.com/railsware/mailtrap-mcp)** — Integrate AI workflows with Mailtrap.
 - **[Microsoft 365 MCP](https://github.com/softeria/ms-365-mcp-server)** — Connect to Outlook and other Microsoft 365 services.
 - **[MintMCP](https://github.com/mintmcp/servers)** — Gmail, Outlook, and calendar integrations.
+- **[Poptin MCP](https://github.com/Poptin-LTD/Poptin-MCP)** — Draft marketing emails, review popup and signup form performance, and build audience segments through the hosted MCP server.
 
 ---
 
