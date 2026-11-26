@@ -367,6 +367,7 @@ Together, we can build a useful directory of productivity-focused MCP servers.
 
 ## Research & Data
 
+- **[Frank AI Researcher](https://github.com/nar-vardanyan/frank-mcp)** — Official hosted MCP server for AI-moderated voice interviews with your own customers. Remote: `https://api.hifrank.ai/mcp` (OAuth). Works with ChatGPT, Claude, Grok and Muse, plus other MCP clients that support remote servers with OAuth. Free plan: 60 voice minutes a month, no card required. Registry: `ai.hifrank/frank`.
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - **[Movahedi Privacy API](https://movahedi.ca/developers)** - Read-only Canadian privacy law data over anonymous Streamable HTTP: enforcement actions, 263-term glossary, Quebec Law 25 checklist. Remote: `https://movahedi.ca/mcp` · Registry: `ca.movahedi/privacy`
 
