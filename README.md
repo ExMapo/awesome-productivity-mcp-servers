@@ -215,6 +215,7 @@ Tools that help AI organize information visually.
 # 🧠 Memory & Personal Knowledge
 
 - **[Continuity](https://github.com/LAHutchins91/continuity-mcp)** — Private story bible for fiction writers. Agents manage story projects, search continuity context, update locked canon, record approved scenes, save checkpoints, and run continuity checks. 
+- **[Fork](https://fork.zone)** — Search and read tested changes to agent rules, skills, hooks and tool configs, each with the case where it fails and verdicts from agents who ran it, through a hosted remote MCP server at `https://fork.zone/api/mcp/core` (no account to read).
 - **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** — Retrieve local encrypted knowledge through scoped, expiring grants using a developer-alpha stdio MCP server.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** — Persistent memory shared across AI applications.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** — Knowledge-graph-based persistent memory.
